@@ -72,19 +72,4 @@ jupyter notebook NLPComparativeAnalysis.ipynb
 - matplotlib, seaborn, numpy, pandas
 
 ---
-
-## 📄 License
-MIT License © 2025 Sanjana Shah
-
----
-
-## 👤 Author
-
-**Sanjana Shah**  
-✨ Machine Learning & Generative AI Enthusiast  
-📫 Connect on [LinkedIn](https://www.linkedin.com/in/sanjanavshah)
-GitHub: [@shahsanjanav](https://github.com/shahsanjanav)
-
----
-
-⭐ If you like this project, consider starring it on GitHub!
+roject, consider starring it on GitHub!
