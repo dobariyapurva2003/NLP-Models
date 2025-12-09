@@ -1,4 +1,4 @@
-# 🧠 ReviewPulse – Live Sentiment predictions using DL models (BERT, LSTM, GRU, and RNN)
+# 🧠 ReviewPulse – Live Sentiment predictions using deep learning models (BERT, LSTM, GRU, and RNN)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch)
