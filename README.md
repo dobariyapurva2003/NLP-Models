@@ -1,9 +1,14 @@
-# 🧠 NLP Sentiment Analysis: Comparative Study using BERT, LSTM, GRU, and RNN
+# 🧠 ReviewPulse – Live Sentiment predictions using DL models (BERT, LSTM, GRU, and RNN)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch)
 
-This project performs sentiment analysis using four deep learning models — BERT, LSTM, GRU, and simple RNN — and compares them on classification performance, computational efficiency, and implementation complexity. Built using PyTorch and Hugging Face Transformers.
+This project performs sentiment analysis using four deep learning models — BERT, LSTM, GRU, and Simple RNN — and systematically compares them in terms of classification accuracy, F1-score, computational efficiency, and implementation complexity. The pipeline was built using PyTorch and Hugging Face Transformers, incorporating custom preprocessing for Word2Vec/GloVe-style models (vocabulary indexing, sequence padding) and tokenizer-based preprocessing for BERT.
+
+Multiple training strategies were evaluated, including learning rate optimization, early stopping, checkpoint-based model saving, and weighted loss handling for class imbalance, enabling reproducible and stable training. The results highlight the performance advantages of contextual embeddings, with BERT outperforming classical RNN-based architectures by a significant margin. 
+
+The project concludes with the development of a Real-Time Sentiment Prediction application capable of loading trained weight files and performing on-the-fly preprocessing and inference, providing users with comparative confidence scores across all four models for unseen inputs. This enables interactive evaluation of model behavior beyond offline metrics and emphasizes practical deployment considerations.
+
 
 ---
 
