@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project performs sentiment analysis using four deep learning models — BERT, LSTM, GRU, and simple RNN — and compares them on classification performance, computational efficiency, and implementation complexity. Built using PyTorch and Hugging Face Transformers.
 
