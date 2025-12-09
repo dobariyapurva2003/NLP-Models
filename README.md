@@ -12,11 +12,14 @@ This project performs sentiment analysis using four deep learning models — BER
 
 ```
 NLP-Sentiment-Model-Comparison/
-├── NLPComparativeAnalysis.ipynb 		# Main notebook with training and evaluation
-├── NLP Comparative Analysis.pdf 		# Project methodology and insights
+├── main.ipynb 		# Main notebook with training and evaluation
 ├── requirements.txt                            # Python dependencies
 ├── README.md                                   # Project overview
-└── .gitignore                                  # Files to exclude from Git tracking
+
+[Models](https://drive.google.com/drive/folders/1KyBVUQT_m9mhYF8p5eI3m7wFqKZSWRE3?usp=sharing)
+[Dataset-BERT](https://www.kaggle.com/datasets/virajjayant/bertbaseuncased)
+[Dataset-Glove](https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt)
+[Dataset-IMDB Movie review](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 ```
 
 ---
@@ -29,26 +32,6 @@ NLP-Sentiment-Model-Comparison/
 | **LSTM** | Long Short-Term Memory network for sequential modeling |
 | **GRU**  | Gated Recurrent Unit for efficient RNN-based modeling |
 | **RNN**  | Baseline simple Recurrent Neural Network |
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/shahsanjanav/NLP-Sentiment-Model-Comparison.git
-cd NLP-Sentiment-Model-Comparison
-```
-
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Notebook
-```bash
-jupyter notebook NLPComparativeAnalysis.ipynb
-```
 
 ---
 
@@ -72,4 +55,3 @@ jupyter notebook NLPComparativeAnalysis.ipynb
 - matplotlib, seaborn, numpy, pandas
 
 ---
-roject, consider starring it on GitHub!
