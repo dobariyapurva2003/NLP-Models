@@ -13,7 +13,7 @@ The project concludes with the development of a Real-Time Sentiment Prediction a
 ---
 
 ## 📁 Project Structure
-
+```
 NLP-Sentiment-Model-Comparison/
 ├── main.ipynb 		# Main notebook with training and evaluation
 ├── requirements.txt                            # Python dependencies
@@ -23,10 +23,10 @@ NLP-Sentiment-Model-Comparison/
 ```
 ## Dataset and Models
 
-![Models](https://drive.google.com/drive/folders/1KyBVUQT_m9mhYF8p5eI3m7wFqKZSWRE3?usp=sharing)
-![Dataset-BERT](https://www.kaggle.com/datasets/virajjayant/bertbaseuncased)
-![Dataset-Glove](https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt)
-![Dataset-IMDB Movie review](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+**Models** :  https://drive.google.com/drive/folders/1KyBVUQT_m9mhYF8p5eI3m7wFqKZSWRE3?usp=sharing
+**Dataset-BERT** : https://www.kaggle.com/datasets/virajjayant/bertbaseuncased
+**Dataset-Glove** : https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt
+**Dataset-IMDB Movie review** : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 
 ---
